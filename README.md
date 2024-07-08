@@ -4,4 +4,8 @@
 <div align="center" style="width:100%;overflow:auto;">
 <div style="width:33%;float:left;outline:3px;">
 Over 300 unique levels
-</div></div>
+</div>
+<div style="width:33%;float:left;outline:3px;">
+Over 300 unique levels
+</div>
+</div>
